@@ -4,16 +4,16 @@ Data_impute is a data imputataion library which imputes the missing data in the 
 data_impute performs the following operations on the pandas dataframes
 
 - imputes contionous missing data
-a. Mean Imputataion
-b. Mode Imputataion
-c. Median Imputation
-d. RandomSampleImputation
-e. endOfDistributionImputation
+-a. Mean Imputataion
+-b. Mode Imputataion
+-c. Median Imputation
+-d. RandomSampleImputation
+-e. endOfDistributionImputation
 
 - imputes categorical missing data
-a. frequentCategoryImputation
-b. captureNaNwithFeatureImputation
-c. captureNaNwithCategoryImputation
+-a. frequentCategoryImputation
+-b. captureNaNwithFeatureImputation
+-c. captureNaNwithCategoryImputation
 
 # Usage
 In the following paragraphs, I am going to describe how you can get and use Data Impute for your own projects.
